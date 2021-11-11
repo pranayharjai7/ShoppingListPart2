@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingListPart2</string>
+    <string name="no_item_added_to_the_list">No item added to the List</string>
+    <string name="add">ADD</string>
+    <string name="apple">APPLE</string>
+    <string name="banana">BANANA</string>
+    <string name="orange">ORANGE</string>
+    <string name="cherry">CHERRY</string>
+    <string name="grape">GRAPE</string>
+    <string name="search">SEARCH</string>
+</resources>
